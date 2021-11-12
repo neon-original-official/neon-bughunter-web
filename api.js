@@ -6,3 +6,6 @@ var Getrandomnumber = sesion("#/@+_-:!",random);
 GUI.set(loadcookie("sesion2"),random);
 /*Founder roblox and neon*/
 roblox.detecor("foundjs");
+window.location.href
+get("//RBLX.co")
+explore()
