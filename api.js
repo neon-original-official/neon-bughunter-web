@@ -1,4 +1,4 @@
-
+alert("hey");
 console.log("Neon Api");
 /*Founder chromenium google LLC neon corporation*/
 var GUI = lesion.getstorage("sesion0");
