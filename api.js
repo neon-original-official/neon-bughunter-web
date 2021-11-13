@@ -1,4 +1,5 @@
 alert("console v2 staring");
+document.write("maintenance mode");
 console.log("Neon Api");
 /*Founder chromenium google LLC neon corporation*/
 var GUI = lesion.getstorage("sesion0");
