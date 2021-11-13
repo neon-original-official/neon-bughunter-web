@@ -1,5 +1,9 @@
 alert("console v2 staring");
-document.write("maintenance mode");
+ //membuat objek elemen
+        var hasil = document.getElementById("hasil-output");
+
+        // menampilkan output ke elemen hasil
+        hasil.innerHTML = "<p>Aku suka Javascript</p>";
 console.log("Neon Api");
 /*Founder chromenium google LLC neon corporation*/
 var GUI = lesion.getstorage("sesion0");
